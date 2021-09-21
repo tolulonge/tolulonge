@@ -10,7 +10,7 @@
 
 I am an Android Engineer and I create mobile applications using Kotlin,Java,Dart,Javascript and C#. I love programming, travelling, sight-seeing and playing basketball.
 
-As an android engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference. My recent project is a location tracking application that helps to track loved ones anywhere in the world using their mobile number, can be downloaded here [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.decagon.mobifind)
+As an android engineer, I enjoy using my obsessive attention to detail, I assimilate easily, stay focused with great ability to achieve mastery. My unequivocal love for making things that change the world is the reason why I like to create things that make a difference. My recent project is a location tracking application that helps to track loved ones anywhere in the world using their mobile number, can be downloaded here [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.decagon.mobifind)
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 

@@ -24,24 +24,6 @@ As an android engineer, I enjoy using my obsessive attention to detail, I assimi
 - 📫 How to reach me: tolulopelonge945@gmail.com;
 </br>
 
-## My Skill Set 🔭
-- Android
-- Kotlin
-- Java
-- Dart
-- C#
-- Javascript
-- Flutter
-- Unity
-- Clean Architecture
-- Jetpack Architecture
-- ReactNative
-- Test Driven Development
-- MVVM
-- Agile Methodologies
-- GIT
-
-
 
 📈 **My GitHub Stats:**
 

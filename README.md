@@ -18,7 +18,7 @@ As an android engineer, I enjoy using my obsessive attention to detail, I assimi
 
 - 👨🏻‍💻 I’m currently working on game development using unity and creating cross-platform apps using flutter;
 - 🚀 I’m currently learning Data Structures and Algorithms on [HackerRank](https://www.hackerrank.com/tolulopelonge945);
-- Google apps on playstore [Mobilfind](https://play.google.com/store/apps/details?id=com.decagon.mobifind), [Facility Management App](https://play.google.com/store/apps/details?id=com.decagon.facilitymanagementapp_group_two);
+- Apps on google playstore [Mobilfind](https://play.google.com/store/apps/details?id=com.decagon.mobifind), [Facility Management App](https://play.google.com/store/apps/details?id=com.decagon.facilitymanagementapp_group_two);
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun fact: Blues for life
 - 📫 How to reach me: tolulopelonge945@gmail.com;

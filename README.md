@@ -14,7 +14,7 @@ As an android engineer, I enjoy using my obsessive attention to detail, I assimi
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently learning [custom views in android](https://github.com/tolulonge/Custom-Graph-View), working on [game development](https://github.com/tolulonge/Pingu-Run) using unity and creating cross-platform apps using flutter;
+- 👨🏻‍💻 I’m currently learning Jetpack compose, [custom views in android](https://github.com/tolulonge/Custom-Graph-View), working on [game development](https://github.com/tolulonge/Pingu-Run) using unity and creating cross-platform apps using flutter;
 - 🚀 I’m currently learning Data Structures and Algorithms on [HackerRank](https://www.hackerrank.com/tolulopelonge945);
 - Apps on google playstore [Mobilfind](https://play.google.com/store/apps/details?id=com.decagon.mobifind), [Facility Management App](https://play.google.com/store/apps/details?id=com.decagon.facilitymanagementapp_group_two), [ZuriChat](https://play.google.com/store/apps/details?id=com.zurichat.app);
 - 💬 Ask me about anything, I am happy to help;

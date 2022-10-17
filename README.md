@@ -15,7 +15,7 @@ As an android engineer, I enjoy using my obsessive attention to detail, I assimi
 **Talking about Personal Stuffs:**
 
 - Data Structures and Algorithms on [HackerRank](https://www.hackerrank.com/tolulopelonge945);
-- Apps on google playstore [Vtaar](https://play.google.com/store/apps/details?id=com.tolulonge.vtaar), [Mobilfind](https://play.google.com/store/apps/details?id=com.decagon.mobifind), [Facility Management App](https://play.google.com/store/apps/details?id=com.decagon.facilitymanagementapp_group_two), [ZuriChat](https://play.google.com/store/apps/details?id=com.zurichat.app);
+- Apps on google playstore [Vtaar](https://play.google.com/store/apps/details?id=com.tolulonge.vtaar), [Mobilfind](https://play.google.com/store/apps/details?id=com.decagon.mobifind), [KnowAfrika](https://play.google.com/store/apps/details?id=com.gameup.KnowAfrika), [Facility Management App](https://play.google.com/store/apps/details?id=com.decagon.facilitymanagementapp_group_two), [ZuriChat](https://play.google.com/store/apps/details?id=com.zurichat.app);
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun fact: Blues for life
 - 📫 How to reach me: tolulopelonge945@gmail.com;
